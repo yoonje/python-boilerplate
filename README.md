@@ -1,5 +1,5 @@
-# flask-boilerplate
-Minimal setup for building a Python API running with Flask and MongoDB, inside Docker Containers.
+# python-boilerplate
+Minimal setup for building a Python API running with Flask and MongoDB, inside Docker Containers. You can use FastAPI instead of Flask.
 
 ## Running it
 ```
