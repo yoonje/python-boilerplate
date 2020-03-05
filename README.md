@@ -1,12 +1,12 @@
 # Python boilerplate
 Minimal setup for building a Python API running with Flask and MongoDB, inside Docker Containers. You can use FastAPI instead of Flask.
 
-## Running it
+### Running it
 ```
 docker-compose up --build -d
 ```
 
-## Testing it
+### Testing it
 test endpoints:
 ```bash
 curl localhost:5000/ping  # pong
